@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EDM-Login-Page/static/css/main.5490985c.chunk.css",
+    "main.js": "/EDM-Login-Page/static/js/main.e2887d36.chunk.js",
+    "main.js.map": "/EDM-Login-Page/static/js/main.e2887d36.chunk.js.map",
+    "runtime~main.js": "/EDM-Login-Page/static/js/runtime~main.a95d7c8a.js",
+    "runtime~main.js.map": "/EDM-Login-Page/static/js/runtime~main.a95d7c8a.js.map",
+    "static/js/2.47777cde.chunk.js": "/EDM-Login-Page/static/js/2.47777cde.chunk.js",
+    "static/js/2.47777cde.chunk.js.map": "/EDM-Login-Page/static/js/2.47777cde.chunk.js.map",
+    "index.html": "/EDM-Login-Page/index.html",
+    "precache-manifest.b62abf2ee0c27453f9594226b19436f0.js": "/EDM-Login-Page/precache-manifest.b62abf2ee0c27453f9594226b19436f0.js",
+    "service-worker.js": "/EDM-Login-Page/service-worker.js",
+    "static/css/main.5490985c.chunk.css.map": "/EDM-Login-Page/static/css/main.5490985c.chunk.css.map",
+    "static/media/all-icons-1-row.png": "/EDM-Login-Page/static/media/all-icons-1-row.f4939f42.png",
+    "static/media/styles.scss": "/EDM-Login-Page/static/media/layer-1@3x.6cd931bd.jpg"
+  }
+}
