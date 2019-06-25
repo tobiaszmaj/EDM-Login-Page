@@ -1,0 +1,37 @@
+// /*
+//     Place for variables:
+//         - colors
+//         - fonts
+// - color,
+// - font-family
+// - imports
+//         - margins
+//         - etc.
+// */
+//import fonts
+
+@import url('https://fonts.googleapis.com/css?family=Exo:400,800');
+@import url('https://fonts.googleapis.com/css?family=Exo:400,800|Lato:400,900');
+
+//fonts
+$exo-font: 'Exo',
+sans-serif;
+$lato-font:'Lato',
+sans-serif;
+
+$font-color: #fff;
+
+
+
+// btn colors
+$btn-background: #000;
+$btn-text: #fff;
+$btn-hover-bg: lighten($btn-background, 30%);
+$btn-disabled: lighten($btn-background, 60%);
+
+//focus
+$btn-focus-text: $btn-background;
+$btn-focus-bg: lighten($btn-background, 50%);
+
+//form/input
+$invalid-input: #c60001;
