@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://tobiaszmaj.github.io/EDM-Login-Page/",
   "dependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^4.14.1",
     "react": "^16.8.6",
     "react-app-polyfill": "^1.0.1",
     "react-dev-utils": "^9.0.1",
