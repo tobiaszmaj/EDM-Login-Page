@@ -1,6 +1,6 @@
 # EDM Login Page
 
-[Demo](https://tobiaszmaj.github.io/EDM-Login-Page/)
+### See [DEMO](https://tobiaszmaj.github.io/EDM-Login-Page/)
 
 ![Preview](preview.jpg)
 
